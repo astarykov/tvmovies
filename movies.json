@@ -7,13 +7,6 @@
     "src": "https://ashdi.vip/vod/198066"
   },
   {
-    "title": "Фільм Обвинувачений / Підозрюваний (2023)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/poster_3-2.png",
-    "original_cover": "https://uakino.best/uploads/posts/2025-09/poster_3-2.png",
-    "url": "https://uakino.best/filmy/genre_drama/30006-obvynuvachenyi-pidozruvanyi.html",
-    "src": "https://ashdi.vip/vod/197918"
-  },
-  {
     "title": "Фільм Спіймати на гарячому (2025)",
     "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1760175100_1760172729_caughtstealign.jpg",
     "original_cover": "https://uakino.best/uploads/posts/2025-10/1760175100_1760172729_caughtstealign.jpg",
@@ -21,17 +14,24 @@
     "src": "https://ashdi.vip/vod/200708"
   },
   {
-    "title": "Фільм Ідеальні незнайомці (2016)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/8ESijGpyn0XVRFDf6ZyVQSzQ2ri.jpg",
-    "original_cover": "https://uakino.best/uploads/post/Perfect Strangers/8ESijGpyn0XVRFDf6ZyVQSzQ2ri.jpg",
-    "url": "https://uakino.best/filmy/genre_comedy/5240-dealn-neznayomc.html",
-    "src": "https://ashdi.vip/vod/9759"
+    "title": "Фільм Велика смілива красива подорож (2025)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1760943899_68f5a6982a548.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2025-10/1760943899_68f5a6982a548.jpg",
+    "url": "https://uakino.best/filmy/genre_melodrama/30492-velyka-smilyva-krasyva-podorozh.html",
+    "src": "https://ashdi.vip/vod/202252"
   },
   {
-    "title": "Фільм Все заради Джексона (2020)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/16207686549_anything_for_jackson.jpg",
-    "original_cover": "https://uakino.best/uploads/posts/2021-05/16207686549_anything_for_jackson.jpg",
-    "url": "https://uakino.best/filmy/genre_horror/12029-vse-zaradi-dzheksona.html",
-    "src": "https://ashdi.vip/vod/44628"
+    "title": "Фільм Код 3 (2025)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/photo_2025-10-12_07-18-46.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2025-10/photo_2025-10-12_07-18-46.jpg",
+    "url": "https://uakino.best/filmy/genre-action/30524-kod-3.html",
+    "src": "https://ashdi.vip/vod/202608"
+  },
+  {
+    "title": "Фільм Останнє пограбування (2025)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/photo_2025-10-12_07-18-46-2.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2025-10/photo_2025-10-12_07-18-46-2.jpg",
+    "url": "https://uakino.best/filmy/genre-action/30525-ostannie-pograbuvannia.html",
+    "src": "https://ashdi.vip/vod/202607"
   }
 ]
