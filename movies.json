@@ -7,13 +7,6 @@
     "src": "https://ashdi.vip/vod/198066"
   },
   {
-    "title": "Фільм Спіймати на гарячому (2025)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1760175100_1760172729_caughtstealign.jpg",
-    "original_cover": "https://uakino.best/uploads/posts/2025-10/1760175100_1760172729_caughtstealign.jpg",
-    "url": "https://uakino.best/filmy/genre_comedy/30322-spiimaty-na-gariachomu.html",
-    "src": "https://ashdi.vip/vod/200708"
-  },
-  {
     "title": "Фільм Велика смілива красива подорож (2025)",
     "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1760943899_68f5a6982a548.jpg",
     "original_cover": "https://uakino.best/uploads/posts/2025-10/1760943899_68f5a6982a548.jpg",
@@ -33,5 +26,12 @@
     "original_cover": "https://uakino.best/uploads/posts/2025-10/photo_2025-10-12_07-18-46-2.jpg",
     "url": "https://uakino.best/filmy/genre-action/30525-ostannie-pograbuvannia.html",
     "src": "https://ashdi.vip/vod/202607"
+  },
+  {
+    "title": "Фільм Голий пістолет (2025)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/ekaery.png",
+    "original_cover": "https://uakino.best/uploads/posts/2025-09/ekaery.png",
+    "url": "https://uakino.best/filmy/genre-action/29822-golyi-pistolet.html",
+    "src": "https://ashdi.vip/vod/196462?"
   }
 ]
