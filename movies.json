@@ -10,7 +10,7 @@
     "title": "Фільм Код 3 (2025)",
     "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/photo_2025-10-12_07-18-46.jpg",
     "original_cover": "https://uakino.best/uploads/posts/2025-10/photo_2025-10-12_07-18-46.jpg",
-    "url": "https://uakino.best/filmy/genre-action/30524-kod-3.html",
+    "url": "https://uakino.best/filmy/genre_comedy/30524-kod-3.html",
     "src": "https://ashdi.vip/vod/202608"
   },
   {
@@ -19,13 +19,6 @@
     "original_cover": "https://uakino.best/uploads/posts/2025-10/cover9b9115b82d8fb4e3_md.jpg",
     "url": "https://uakino.best/filmy/genre_melodrama/30516-iakby-ty-buv-ostannim.html",
     "src": "https://ashdi.vip/vod/202499"
-  },
-  {
-    "title": "Фільм Незнайомці: Частина перша (2024)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1718349882_1718347936_thdyp4v59y9ik3lwrzrq62kqnqq.jpg",
-    "original_cover": "https://uakino.best/uploads/posts/2024-06/1718349882_1718347936_thdyp4v59y9ik3lwrzrq62kqnqq.jpg",
-    "url": "https://uakino.best/filmy/genre_horror/21975-neznayomc-chastina-persha.html",
-    "src": "https://ashdi.vip/vod/194187"
   },
   {
     "title": "Фільм Земля після (2024)",
@@ -42,10 +35,17 @@
     "src": "https://ashdi.vip/vod/186141"
   },
   {
-    "title": "Фільм Той, що жахає 3 / Жахаючий 3 (2024)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/shnlgenkapro.png",
-    "original_cover": "https://uakino.best/uploads/posts/2025-10/shnlgenkapro.png",
-    "url": "https://uakino.best/filmy/genre_crime/24482-zhakhauchyi-3.html",
-    "src": "https://ashdi.vip/vod/150233"
+    "title": "Фільм Балада про дрібного гравця (2025)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1761730347_6901d7395b09e.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2025-10/1761730347_6901d7395b09e.jpg",
+    "url": "https://uakino.best/filmy/genre_detective/30685-balada-pro-dribnogo-gravcia.html",
+    "src": "https://ashdi.vip/vod/204249"
+  },
+  {
+    "title": "������ ������� 2 (2025)",
+    "cover": "https://kinokong.day/uploads/posts/2025-10/1760607914_1jpg.png",
+    "original_cover": "https://kinokong.day/uploads/posts/2025-10/1760607914_1jpg.png",
+    "url": "https://kinokong.day/84041-film-chernyy-telefon-2-2025.html",
+    "src": "https://kinokong.day/84041-film-chernyy-telefon-2-2025.html"
   }
 ]
