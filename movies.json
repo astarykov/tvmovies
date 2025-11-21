@@ -21,13 +21,6 @@
     "src": "https://ashdi.vip/vod/207206"
   },
   {
-    "title": "Фільм Чорний куклукскланівець (2018)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1650034118_11.jpg",
-    "original_cover": "https://uakino.best/uploads/posts/2022-04/1650034118_11.jpg",
-    "url": "https://uakino.best/filmy/10905-chorniy-kukluksklanvec.html",
-    "src": "https://ashdi.vip/vod/187190"
-  },
-  {
     "title": "Фільм Астероїд-Сіті (2023)",
     "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1689506583_1689506499_648376edb9dd2.jpg",
     "original_cover": "https://uakino.best/uploads/posts/2023-07/1689506583_1689506499_648376edb9dd2.jpg",
@@ -68,5 +61,12 @@
     "original_cover": "https://uakino.best/uploads/posts/2022-12/1671525003_1671524976_11.jpg",
     "url": "https://uakino.best/filmy/genre_drama/16220-lamborn-lyudina-legenda-lamborghini-lyudina-scho-stoyit-za-legendoyu.html",
     "src": "https://ashdi.vip/vod/83187"
+  },
+  {
+    "title": "Фільм Мій пацан (2012)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1653676334_181007082110824178_f0_0.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2022-05/1653676334_181007082110824178_f0_0.jpg",
+    "url": "https://uakino.best/filmy/genre_comedy/2310-my-pacan.html",
+    "src": "https://ashdi.vip/vod/72407"
   }
 ]
