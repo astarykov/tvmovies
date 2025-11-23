@@ -21,20 +21,6 @@
     "src": "https://ashdi.vip/vod/207206"
   },
   {
-    "title": "Фільм Астероїд-Сіті (2023)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1689506583_1689506499_648376edb9dd2.jpg",
-    "original_cover": "https://uakino.best/uploads/posts/2023-07/1689506583_1689506499_648376edb9dd2.jpg",
-    "url": "https://uakino.best/filmy/genre_melodrama/17533-asteroyid-st.html",
-    "src": "https://ashdi.vip/vod/115109"
-  },
-  {
-    "title": "Фільм Удача Лохана (2017)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/udachalog.jpg",
-    "original_cover": "https://uakino.best/uploads/posts/2024-08/udachalog.jpg",
-    "url": "https://uakino.best/filmy/genre_comedy/4641-udacha-lohana.html",
-    "src": "https://ashdi.vip/vod/8430"
-  },
-  {
     "title": "Фільм Чоботар (2014)",
     "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/uVtInU8WjhBysZqDWFL0pq0hP1A.jpg",
     "original_cover": "https://uakino.best/uploads/post/The Cobbler/uVtInU8WjhBysZqDWFL0pq0hP1A.jpg",
@@ -63,10 +49,24 @@
     "src": "https://ashdi.vip/vod/83187"
   },
   {
-    "title": "Фільм Мій пацан (2012)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1653676334_181007082110824178_f0_0.jpg",
-    "original_cover": "https://uakino.best/uploads/posts/2022-05/1653676334_181007082110824178_f0_0.jpg",
-    "url": "https://uakino.best/filmy/genre_comedy/2310-my-pacan.html",
-    "src": "https://ashdi.vip/vod/72407"
+    "title": "Фільм Невидима сторона (2009)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/cs8pK1iE5Xhpk1cwmWpOE6K5H1D.jpg",
+    "original_cover": "https://uakino.best/uploads/post/The Blind Side/cs8pK1iE5Xhpk1cwmWpOE6K5H1D.jpg",
+    "url": "https://uakino.best/filmy/genre_drama/493-nevidima-storona.html",
+    "src": "https://ashdi.vip/vod/14162"
+  },
+  {
+    "title": "Фільм Разом з кістками (2022)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1680263092_1680262919_63abc66b94ffa.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2023-03/1680263092_1680262919_63abc66b94ffa.jpg",
+    "url": "https://uakino.best/filmy/genre_melodrama/16851-razom-z-kstkami.html",
+    "src": "https://uakino.best/filmy/genre_melodrama/16851-razom-z-kstkami.html"
+  },
+  {
+    "title": "Фільм Муай Тай: Мистецтво восьми кінцівок (2024)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1763620519_1763615774_25111812214525733_f0_0.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2025-11/1763620519_1763615774_25111812214525733_f0_0.jpg",
+    "url": "https://uakino.best/filmy/genre-action/31191-muai-tai-mystectvo-vosmy-kincivok.html",
+    "src": "https://ashdi.vip/vod/211873"
   }
 ]
