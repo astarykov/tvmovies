@@ -1,5 +1,12 @@
 [
   {
+    "title": "Фільм Сімейний план 2 (2025)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1764145725_6926b8fd1f5cc.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2025-11/1764145725_6926b8fd1f5cc.jpg",
+    "url": "https://uakino.best/filmy/genre-action/31312-simeinyi-plan-2.html",
+    "src": "https://ashdi.vip/vod/214078"
+  },
+  {
     "title": "Фільм Банши Інішерина (2022)",
     "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/ucpcuip.png",
     "original_cover": "https://uakino.best/uploads/posts/2025-11/ucpcuip.png",
@@ -40,5 +47,19 @@
     "original_cover": "https://uakino.best/uploads/posts/2023-03/1680263092_1680262919_63abc66b94ffa.jpg",
     "url": "https://uakino.best/filmy/genre_melodrama/16851-razom-z-kstkami.html",
     "src": "https://ashdi.vip/vod/90238"
+  },
+  {
+    "title": "Фільм S.T.A.L.K.E.R. Тінь Зони (2024)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/8fxyxmit7seeaexgki28vmwknpm.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2024-11/8fxyxmit7seeaexgki28vmwknpm.jpg",
+    "url": "https://uakino.best/filmy/genre_thriller/24584-stalker-tin-zony.html",
+    "src": "https://ashdi.vip/vod/149283"
+  },
+  {
+    "title": "Фільм Почерк кілера (2024)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1755621208_1755610778_main_pk.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2025-08/1755621208_1755610778_main_pk.jpg",
+    "url": "https://uakino.best/filmy/genre-action/29514-pocherk-kilera.html",
+    "src": "https://ashdi.vip/vod/193902"
   }
 ]
