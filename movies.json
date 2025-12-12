@@ -7,13 +7,6 @@
     "src": "https://ashdi.vip/vod/169327"
   },
   {
-    "title": "Фільм Чорний Адам (2022)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/cukouu.webp",
-    "original_cover": "https://uakino.best/uploads/posts/2025-12/cukouu.webp",
-    "url": "https://uakino.best/filmy/genre-action/15790-chorniy-adam.html",
-    "src": "https://ashdi.vip/vod/80735"
-  },
-  {
     "title": "Фільм Франкенштайн (2025)",
     "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1762517868_690de2599e1f3.jpg",
     "original_cover": "https://uakino.best/uploads/posts/2025-11/1762517868_690de2599e1f3.jpg",
@@ -26,5 +19,12 @@
     "original_cover": "https://uakino.best/uploads/posts/2025-11/1764343751_69299cc94eafa.jpg",
     "url": "https://uakino.best/filmy/genre_thriller/31345-pid-zamkom.html",
     "src": "https://ashdi.vip/vod/214477"
+  },
+  {
+    "title": "Фільм Ножі наголо: Прокинься, покійнику (2025)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1765557516_693c094494104.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2025-12/1765557516_693c094494104.jpg",
+    "url": "https://uakino.best/filmy/genre_comedy/31631-nozhi-nagolo-prokynsia-pokiinyku.html",
+    "src": "https://ashdi.vip/vod/221115"
   }
 ]
