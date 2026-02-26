@@ -1,23 +1,16 @@
 [
   {
-    "title": "Фільм Спогади про вбивство (2003)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1625729284_1625729135_11.jpg",
-    "original_cover": "https://uakino.best/uploads/posts/2021-07/1625729284_1625729135_11.jpg",
-    "url": "https://uakino.best/filmy/genre_detective/12377-spogadi-pro-vbivstvo.html",
-    "src": "https://ashdi.vip/vod/47230"
+    "title": "Фільм Фінікійська схема (2025)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1751181921_6860db84a61c1.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2025-06/1751181921_6860db84a61c1.jpg",
+    "url": "https://uakino.best/filmy/genre-action/28459-finikiiska-skhema.html",
+    "src": "https://ashdi.vip/vod/187669"
   },
   {
-    "title": "Фільм Проти полумʼя (2026)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1771586965_69981fc31de6d.jpg",
-    "original_cover": "https://uakino.best/uploads/posts/2026-02/1771586965_69981fc31de6d.jpg",
-    "url": "https://uakino.best/filmy/genre_drama/32735-proty-polumia.html",
-    "src": "https://ashdi.vip/vod/238646"
-  },
-  {
-    "title": "Фільм Примат (2025)",
-    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1771871268_699c5a58b11d5.jpg",
-    "original_cover": "https://uakino.best/uploads/posts/2026-02/1771871268_699c5a58b11d5.jpg",
-    "url": "https://uakino.best/filmy/genre_thriller/32764-prymat.html",
-    "src": "https://ashdi.vip/vod/239061"
+    "title": "Фільм Самотник / Самітник (2026)",
+    "cover": "https://raw.githubusercontent.com/astarykov/tvmovies/refs/heads/main/posters/1772105414_69a02ad9927a1.jpg",
+    "original_cover": "https://uakino.best/uploads/posts/2026-02/1772105414_69a02ad9927a1.jpg",
+    "url": "https://uakino.best/filmy/genre-action/32790-samotnyk-samitnyk.html",
+    "src": "https://ashdi.vip/vod/239547"
   }
 ]
